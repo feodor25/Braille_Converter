@@ -14,13 +14,3 @@ It comes in 3 different styles:
 Check out the [demo](https://evoluteur.github.io/braille-tools/index.html).
 
 
-### Braille Alphabet
-
-![screenshot](https://raw.github.com/evoluteur/braille-tools/gh-pages/screenshots/alphabet.gif)
-
-
-### License
-
-Copyright (c) 2016 Olivier Giulieri.
-
-Braille-Tools is released under the [MIT license](http://github.com/evoluteur/braille/blob/master/LICENSE.md).
